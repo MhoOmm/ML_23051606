@@ -31,7 +31,7 @@ The repository covers the following Machine Learning topics:
 
 ## 📁 Repository Structure
 
-```text
+```
 ├── 📁 AllClassification
 │   ├── 📄 biascomp.ipynb
 │   ├── 📄 comp.ipynb
@@ -63,8 +63,12 @@ The repository covers the following Machine Learning topics:
 ├── 📁 Knn
 │   ├── 📄 iris.csv
 │   └── 📄 knniris.ipynb
-└── 📁 Regression
-    ├── 📄 gdRegressor.ipynb
-    ├── 📄 multiple.ipynb
-    ├── 📄 ourownClass.ipynb
-    └── 📄 simple_linearRegression.ipynb
+├── 📁 LogisticRegression
+│   └── 📄 first.ipynb
+├── 📁 Regression
+│   ├── 📄 gdRegressor.ipynb
+│   ├── 📄 multiple.ipynb
+│   ├── 📄 ourownClass.ipynb
+│   └── 📄 simple_linearRegression.ipynb
+└── 📝 README.md
+```
